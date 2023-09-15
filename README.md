@@ -4,6 +4,8 @@ Para garentizar la seguridad, creamos un endpoint de /login para que el usuario 
 
 ![image](https://github.com/DarKNeSsJuaN25/SecurityLab/assets/68095284/b285da6c-b916-479a-b7a6-1bb77fc212a1)
 
+Resultado: 
+
 ![image](https://github.com/DarKNeSsJuaN25/SecurityLab/assets/68095284/bee086f1-798c-412b-917d-94d0b60433ea)
 
 # SQL Inyection
