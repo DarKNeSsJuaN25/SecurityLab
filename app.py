@@ -9,15 +9,15 @@ def group01():
     return jsonify({'result': 'este es el grupo 01'})
 
 @app.route('/group02')
-def group01():
+def group02():
     return jsonify({'result': 'este es el grupo 02'})
 
 @app.route('/group03')
-def group01():
+def group03():
     return jsonify({'result': 'este es el grupo 03'})
 
-@app.route('/group01')
-def group01():
+@app.route('/group04')
+def group04():
     return jsonify({'result': 'este es el grupo 04'})
 
 if __name__ == "__main__":
